@@ -1,15 +1,24 @@
+<div align="center">
+  <img src="lc-logo.svg" width="120" height="120" alt="lc">
+</div>
 
+<br>
 
-<h2 align="center">Hello! I'm Luigi 👋 </h2>
+```sh
+$ whoami
+luigi (werew) — security engineer @ meta
 
+$ cat about.txt
+security research and other things
+
+$ echo $FUN_FACT
+switched to colemak. my username has never recovered.
+```
+
+<br>
 
 <p align="center">
-  <a href="https://ret2libc.com">Blog</a> •
-  <a href="https://twitter.com/werewtk">Twitter</a>
+  <a href="https://ret2libc.com">blog</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/luigiconiglio">linkedin</a>
 </p>
 
-
-- 🔭 I’m currently working at [Meta](https://www.meta.com/) (formerly known as Facebook) as part of the Product Security Team
-- 💬 Ask me about some cool ways to find security bugs 
-- 📫 How to reach me: [@werewtk](https://twitter.com/werewtk) on X/Twitter
-- ⚡ Fun fact: once upon a time, typing my username was a breeze, then [Colemak](https://colemakmods.github.io/mod-dh/) happened  
