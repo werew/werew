@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="intro.svg" width="500" alt="werew"/>
+  <img src="intro.svg" width="600" alt="werew"/>
 </div>
 
 <p align="center">
